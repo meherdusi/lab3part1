@@ -1,2 +1,2 @@
 
-print "hello mars"
+print "hello jupiter"
